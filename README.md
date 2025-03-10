@@ -14,3 +14,7 @@ couleurs. La classe Dimension est une classe avec 3 attributs pour la définir. 
 une fonction pour imposer des contraintes sur cet attribut. Les autres classes, telles que Customer,
 Box, Order, Order_Box et Action_discount, sont créées en fonction des besoins de la base de
 données
+
+**3. Script SQL pour la création de la base de données**
+
+j’ai utilisé PostgreSQL pour le script SQL. Le fichier **create_table.sql ** est utilisé pour créer une table, contenant une description des syntaxes et des explications sur les conditions requises pour la création de la table.
