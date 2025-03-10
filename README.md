@@ -17,4 +17,4 @@ données
 
 **3. Script SQL pour la création de la base de données**
 
-j’ai utilisé PostgreSQL pour le script SQL. Le fichier **create_table.sql ** est utilisé pour créer une table, contenant une description des syntaxes et des explications sur les conditions requises pour la création de la table.
+j’ai utilisé PostgreSQL pour le script SQL. Le fichier "create_table.sql" est utilisé pour créer une table, contenant une description des syntaxes et des explications sur les conditions requises pour la création de la table.
